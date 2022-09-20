@@ -1,0 +1,19 @@
+
+Hello Sandy this is your First git :) 
+
+
+Our next Goals :
+
+1. Revise and Practice BTs
+
+2. Learn LinkedLists 
+
+3. Learn more and more Streams concepts
+
+4. Learn Git
+
+5. Learn a new language like JavaScript, Python
+
+6. Learn a Framework 
+
+7. Any one or both AWS or GCP
