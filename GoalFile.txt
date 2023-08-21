@@ -36,6 +36,8 @@ Our next Goals :
 Sub Final added
 
 
+I told the VS Code that i trust this repo but there is no use at all/......
+
 
 This is a great practice please continue this
 
