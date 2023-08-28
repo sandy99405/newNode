@@ -42,13 +42,13 @@ This is the best
 please continue this
 
 
-1) Contribute to a project 
+1) Contribute to a project                - DONE
 
-2) React js 
+2) React js                               - DONE
 
-3) SAP ABAP
+3) SAP ABAP                               - DONE
 
-4) Tree problems - 3
+4) Tree problems - 3                     
 
 5) Systems Design
 
