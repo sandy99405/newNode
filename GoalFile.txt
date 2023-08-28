@@ -48,8 +48,8 @@ please continue this
 
 3) SAP ABAP                               - DONE
 
-4) Tree problems - 3                     
+4) Tree problems - 3                      - About to be DONE 
 
-5) Systems Design
+5) Systems Design                         - About to be DONE
 
-6) Node js
+6) Node js                                - About to be DONE
